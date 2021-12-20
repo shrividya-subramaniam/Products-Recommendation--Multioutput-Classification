@@ -57,9 +57,10 @@ In both columns Product_Holding_B1 and Product_Holding_B2, we can see instances 
 The competition evaluation metric for the hackathon is Mean Average Precision (MAP).
 
 
-## Approach
+## Prediction Approach
 - Since this is a multilabel classification problem, the normal classifiers will not work. Hence, MultiOutputClassifier along with the classifier algorithms is used to build the model.
 - Logistic Regression, Naïve Bayes, tree based algorithm like Random Forest and ensemble models such as XGBoost and LightGBM are evaluated. 
+- XGBoost model is selected as the final model as it achieved the higher accuracy than other models.
 
 
 ## Data Postprocessing
