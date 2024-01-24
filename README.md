@@ -75,5 +75,5 @@ The competition evaluation metric for the hackathon is Mean Average Precision (M
 
 
 ## Leaderboard
-- [Public Leaderboard](https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard): 8th Rank
-- [Private Leaderboard](https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard): 5th Rank
+- [Public Leaderboard](https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard) (username:shrivi2105): 8th Rank
+- [Private Leaderboard](https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard) (username:shrivi2105): 5th Rank
