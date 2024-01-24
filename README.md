@@ -65,7 +65,7 @@ The competition evaluation metric for the hackathon is Mean Average Precision (M
 
 ## Data Postprocessing
 - The predicted values are in the form of a 2D array. It has to be processed and converted to original product codes before adding it to the submission file. 
-1. The array is reshaped to a 1D ,inverse transformed with LabelEncoder to original categories and reshaped to its original shape.
+1. The array is reshaped to a 1D, inverse transformed with LabelEncoder to original categories and reshaped to its original shape.
 2. The array is converted into a dataframe. 
 3. 'N' (none) values in the dataframe are converted into null values
 4. The dataframe is converted to a list
