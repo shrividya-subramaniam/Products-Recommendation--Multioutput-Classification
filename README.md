@@ -49,8 +49,8 @@ Product_Holding_B1 | Current Product Holding (Encoded)
 - a. Categorical Columns containing demographic information of the customers are one-hot encoded. 
 - b. User_ID column is encoded with LabelEncoder() as other target encoders cannot be used. 
 - c. The categorical columns derived from Product_Holding_B1 and Product_Holding_B2 columns are also encoded with LabelEncoder() 
-6. The top 3 products for Holding B1 and B2 are retained in the train dataset while top 3 products for Holding B1 are retained. 
-In both columns Product_Holding_B1 and Product_Holding_B2, we can see instances of customers having upto 6 to 7 products. However, we will be predicting only the top 3 products for each customer. Hence, only the top 3 product columns for Holding_B1 and Holding_B2 are retained. 
+6. The top 3 products for Holding B1 and B2 are retained in the train dataset. 
+- In both columns Product_Holding_B1 and Product_Holding_B2, we can see instances of customers having upto 6 to 7 products. However, we will be predicting only the top 3 products for each customer. Hence, only the top 3 product columns for Holding_B1 and Holding_B2 are retained. 
 
 
 ## Evaluation Metric
