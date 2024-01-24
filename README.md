@@ -60,7 +60,7 @@ The competition evaluation metric for the hackathon is Mean Average Precision (M
 ## Prediction Approach
 - Since this is a multilabel classification problem, the normal classifiers will not work. Hence, MultiOutputClassifier along with the classifier algorithms is used to build the model.
 - Logistic Regression, Naïve Bayes, tree based algorithm like Random Forest and ensemble models such as XGBoost and LightGBM are evaluated. 
-- XGBoost model is selected as the final model as it achieved the higher accuracy than other models.
+- XGBoost model is selected as the final model as it achieved a higher accuracy than other models.
 
 
 ## Data Postprocessing
